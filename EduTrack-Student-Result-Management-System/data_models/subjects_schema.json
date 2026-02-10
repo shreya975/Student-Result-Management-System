@@ -1,0 +1,12 @@
+{
+  "subjects": {
+    "SUB001": {
+      "subject_name": "Mathematics",
+      "max_marks": 100
+    },
+    "SUB002": {
+      "subject_name": "Artificial Intelligence",
+      "max_marks": 100
+    }
+  }
+}

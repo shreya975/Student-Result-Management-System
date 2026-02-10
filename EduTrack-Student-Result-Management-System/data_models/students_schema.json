@@ -1,0 +1,18 @@
+{
+  "students": {
+    "STU101": {
+      "student_id": "STU101",
+      "name": "Shreya",
+      "department": "Computer Science",
+      "marks": {
+        "SUB001": 88,
+        "SUB002": 92
+      },
+      "result": {
+        "gpa": 9.2,
+        "grade": "A+",
+        "status": "PASS"
+      }
+    }
+  }
+}

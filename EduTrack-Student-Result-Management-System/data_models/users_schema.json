@@ -1,0 +1,18 @@
+{
+  "users": {
+    "admin": {
+      "user_id": "admin_001",
+      "username": "admin",
+      "password": "hashed_password",
+      "role": "ADMIN"
+    },
+    "students": {
+      "STU101": {
+        "user_id": "STU101",
+        "username": "STU101",
+        "password": "hashed_password",
+        "role": "STUDENT"
+      }
+    }
+  }
+}
